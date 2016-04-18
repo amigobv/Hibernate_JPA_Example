@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1460375305861
+Build-Jdk: 1.8.0_77
+Built-By: MEG
+Bundle-Activator: at.swt6.sensor.DistanceSensor.DistanceSensorActivator
+Bundle-ManifestVersion: 2
+Bundle-Name: at.swt6.sensor.DistanceSensor
+Bundle-SymbolicName: at.swt6.sensor.DistanceSensor
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: at.swt6.sensor.DistanceSensor;version="1.0";uses:="at.sw
+ t6.sensor,javafx.scene.image,org.osgi.framework"
+Import-Package: at.swt6.sensor;version="[1.0,2.0)",org.osgi.framework;ve
+ rsion="[1.3,2.0)",javafx.scene.image
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.0.0.201509101326

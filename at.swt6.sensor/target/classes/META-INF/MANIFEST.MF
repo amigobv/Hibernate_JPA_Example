@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1460375289117
+Build-Jdk: 1.8.0_77
+Built-By: MEG
+Bundle-ManifestVersion: 2
+Bundle-Name: at.swt6.sensor
+Bundle-SymbolicName: at.swt6.sensor
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: at.swt6.sensor;version="1.0";uses:="javafx.scene.image"
+Import-Package: javafx.scene.image
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.0.0.201509101326

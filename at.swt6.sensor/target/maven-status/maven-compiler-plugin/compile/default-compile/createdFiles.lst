@@ -1,0 +1,5 @@
+at\swt6\sensor\AbstractSensor.class
+at\swt6\sensor\ISensor.class
+at\swt6\sensor\ISensor$SensorDataFormat.class
+at\swt6\sensor\Convert.class
+at\swt6\sensor\ISensorFactory.class
